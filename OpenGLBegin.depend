@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1726253204 source:/home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/applicationclass.cpp
+	"applicationclass.h"
+
+1726253204 /home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/applicationclass.h
+
+1726253204 source:/home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/inputclass.cpp
+	"inputclass.h"
+
+1726253204 /home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/inputclass.h
+
+1726253204 source:/home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/main.cpp
+	"systemclass.h"
+
+1726253204 /home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/systemclass.h
+
+1726253204 source:/home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/openglclass.cpp
+	"openglclass.h"
+
+1726253204 /home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/openglclass.h
+
+1726253204 source:/home/ashwin/Code/OpenGL Tutorials/RasterX11/OpenGLBegin/systemclass.cpp
+	"systemclass.h"
+

@@ -1,0 +1,28 @@
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Dependency files
+*.d
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.sln
+*.user
+*.suo
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
